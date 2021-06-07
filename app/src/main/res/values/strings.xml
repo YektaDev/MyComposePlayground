@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Compose Playground</string>
+    <string name="title_activity_try1">Try1</string>
+    <string name="title_activity_try2">Try2</string>
+</resources>
